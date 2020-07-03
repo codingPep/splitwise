@@ -1,0 +1,32 @@
+.top {
+  width: 100%;
+  max-height: 20%;
+  background-color: #25bbaead;
+  color: white;
+  display: flex;
+}
+.logo {
+  width: 51px;
+  float: left;
+  margin-top: 13px;
+  margin-left: 110px;
+}
+.username {
+  padding-right: 1%;
+  float: right;
+  margin-left: 73%;
+  padding-top: 37px;
+}
+.avatar {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 2%;
+}
+.logo-name {
+  font-family: cursive;
+  margin-top: 15px;
+  padding-top: 18px;
+  padding-left: 16px;
+}
